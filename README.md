@@ -13,6 +13,7 @@ Lap Button: Records the current stopwatch time as a lap and displays it in a lis
 Responsive Design: The stopwatch is designed to be responsive and works well on different screen sizes.
 
 TECHNOLOGIES USED:
+
 HTML: Provides the structure and content of the stopwatch application.
 
 CSS: Styles the stopwatch layout and buttons for a clean and user-friendly interface.
