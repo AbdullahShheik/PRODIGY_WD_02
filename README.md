@@ -4,11 +4,10 @@ This is a simple Stopwatch web application built with HTML, CSS, and JavaScript.
 
 FEATURES:
 
-Start/Stop Button: Initiates or pauses the stopwatch timer.
+Start Button: Initiates the stopwatch timer.
+Stop Button: Pauses the stopwatch timer.
 
 Reset Button: Resets the stopwatch timer to 00:00:00.
-
-Lap Button: Records the current stopwatch time as a lap and displays it in a list below the stopwatch display.
 
 Responsive Design: The stopwatch is designed to be responsive and works well on different screen sizes.
 
